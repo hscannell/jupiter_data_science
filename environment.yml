@@ -1,1 +1,23 @@
+name: jupiter-mhw
+channels:
+  - mamba
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - sys
+  - s3fs
+  - xarray
+  - dask
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - cartopy
+  - netcdf4
+  - zarr
+  
+  
 
