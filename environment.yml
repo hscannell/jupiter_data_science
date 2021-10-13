@@ -18,6 +18,7 @@ dependencies:
   - cartopy
   - netcdf4
   - zarr
+  - ocetrac
   
   
 
